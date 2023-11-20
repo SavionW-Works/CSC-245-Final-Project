@@ -1,4 +1,4 @@
-# CSC-245-Final-Project
+# Disney Movie Earnings Analysis
 A final project done in my Data Science class, where I analyze the earning of various Disney movies, and use the patterns I find to determine how the studio tells stories. <br> 
 <br>
 Dataset Source: https://www.kaggle.com/rashikrahmanpritom/disney-movies-19372016-total-gross <br>
